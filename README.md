@@ -11,6 +11,8 @@ The goal of this project is to generate a tidy dataset using the [Human Activity
 
 At the end of the process it outputs the new tidy data set to `tidy_HAR_data.txt`.
 
+To run the analysis, clone this repo, set the directory to your working directory and run `source("run_analysis.R")`.
+
 ## Dependencies
 
 For this project I used "R version 3.5.1 (2018-07-02)" and "dplyr 0.7.6".
